@@ -1,0 +1,70 @@
+
+html,
+body {
+  background-color:orange;
+	
+}
+textarea{
+	resize: none;
+	
+}
+
+.adr{
+	display:none;
+	
+}
+
+.row{
+	/*background-color:green;*/
+	margin-top:1rem;
+	
+}
+
+.row div{
+	/*background-color:red;
+	border: 1px solid black;*/
+	text-align:center;
+}
+.st{
+	margin-bottom: 1rem;
+	font-size:14pt;
+	
+}
+.dou{
+	font-size:14pt;
+}
+.titl{
+	/*font-size:16pt;*/
+}
+.price_d{
+	margin-top:1rem;
+	font-size:14pt;
+	padding: 15px;
+}
+.price_s{
+	font-size:14pt;
+}
+
+
+.parent-row {
+    height: inherit;
+    overflow: auto;
+   
+}
+
+.checkb{
+	position:relative;
+	font-size: 1rem;
+	margin-left: 1px;
+}
+.but_high{
+	
+}
+
+.col-12{
+	font-size:26pt;
+}
+.col-lg-4{
+	margin-top:1rem;
+}
+
